@@ -1,0 +1,14 @@
+[submodule "OCA/project"]
+	path = OCA/project
+	url = git@github.com:OCA/project.git
+	branch = 11.0
+
+[submodule "OCA/server-tools"]
+	path = OCA/server-tools
+	url = git@github.com:OCA/server-tools.git
+	branch = 11.0
+
+[submodule "VCloud9/vcloud9_prod_11"]
+	path = VCloud9/vcloud9_prod_11
+	url = git@github.com:VCloud9/vcloud9_prod_11.git
+	branch = vcloud9_prod
